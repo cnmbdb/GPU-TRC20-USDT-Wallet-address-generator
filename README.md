@@ -1,4 +1,4 @@
-# GPU-TRC20-USDT-Wallet-address-generator
+# GPU版本-最新波场U钱包地址靓号生成器
 GPU版本-最新波场U钱包地址靓号生成器
 <!-- wp:image {"align":"center","width":400,"height":400,"sizeSlug":"large"} -->
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="https://input-s3.mn.input.im/donate-group/7/20230407/20230407_1680811229.png" alt="" width="400" height="400"/></figure>
